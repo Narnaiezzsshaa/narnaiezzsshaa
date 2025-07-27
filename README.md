@@ -10,7 +10,7 @@ I design modular systems for trust repair, signal restoration, and privacy-consc
 ## 🔧 Featured Repositories
 - [`visual-disclosure-ledger`](https://github.com/narnaiezzsshaa/visual-disclosure-ledger): Visual tools for mapping disclosures, consent, and compliance visibility.
 - [`visibility-ledger`](https://github.com/narnaiezzsshaa/visibility-ledger): Attribution and emotional signal recovery systems post-breach.
-- Coming soon: `SANS Labs`, `AWS ACI Toolkits`, `WIC Modules`, `Legacy Recovery Kit`
+- Coming soon (Time Permitting): `SANS Labs`, `AWS ACI Toolkits`, `WIC Modules`, `Legacy Recovery Kit`
 
 ## 🧠 Certifications
 - Security+ • CySA+ • AWS Certified Cloud Practitioner • AWS Certified AI Practitioner • Network+ • A+  
