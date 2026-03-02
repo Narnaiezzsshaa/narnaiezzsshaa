@@ -1,22 +1,60 @@
-# 🌱 Narnaiezzsshaa Truong
+# Narnaiezzsshaa Truong  
+### Cyber–AI Behavioral Architect • Adversarial Evaluation • SMB Governance Systems
 
-Credentialed across healthcare (CPhT) and cybersecurity (Security+, CySA+, AWS Certified AI Practitioner).  
-Author of two KDP publications on emotionally intelligent security and breach recovery:  
-- [Modern Phishing: Trust-Building Defenses for Human-First Teams](https://www.amazon.com/dp/B0FH7H2589)  
-- [Post-Breach Emotional Recovery Kits](https://www.amazon.com/dp/B0FHNCNT4T)
+I work at the intersection of **AI safety**, **cybersecurity**, and **behavioral governance**, designing practical, modular systems for healthcare and small‑to‑medium organizations. My focus is on **multi‑turn adversarial behavior**, **agentic tool‑use safety**, and **AI‑enabled risk governance**—the real-world failure modes that traditional cybersecurity frameworks don’t yet capture.
 
-I design modular systems for trust repair, signal restoration, and privacy-conscious compliance across SMB, healthcare, and legacy ecosystems. My frameworks emphasize quiet excellence, fallback logic, and emotionally literate stewardship.
+---
 
-## 🔧 Featured Repositories
-- [`visual-disclosure-ledger`](https://github.com/narnaiezzsshaa/visual-disclosure-ledger): Visual tools for mapping disclosures, consent, and compliance visibility.
-- [`visibility-ledger`](https://github.com/narnaiezzsshaa/visibility-ledger): Attribution and emotional signal recovery systems post-breach.
-- Coming soon (Time Permitting): `SANS Labs`, `AWS ACI Toolkits`, `WIC Modules`, `Legacy Recovery Kit`
+## Current Work
+- Behavioral AI safety: multi‑turn drift, contextual retargeting, embedding‑vector attacks  
+- Adversarial evaluation: cross‑challenge testing (content safety + process safety)  
+- Tool‑layer governance: precondition enforcement, argument validation, desynchronization detection  
+- SMB‑ready architecture: modular trust, privacy, and legacy‑preservation tools  
+- Standards alignment: mapping AI behavioral risks to NIST CSF 2.0 and AI RMF  
 
-## 🧠 Certifications
-- Security+ • CySA+ • AWS Certified Cloud Practitioner • AWS Certified AI Practitioner • Network+ • A+  
-- Cisco Cybersecurity • PTCB Certified Pharmacy Technician (CPhT)
+---
 
-## 🎯 Ethos
+## Recent Contributions
+- Submitted supplemental expert input to **NIST IR 8596 (Cyber AI Profile)**  
+- Developed a **Cross‑Challenge AI Safety Assessment** across 11 commercial models  
+- Authored a **desynchronization taxonomy** (refusal‑generation, intent‑action, refusal‑pivot)  
+- Built a **CSF 2.0 Mapping Addendum** linking adversarial evidence to 16 Subcategories  
+
+---
+
+## Publications & Writing
+- KDP author on **breach recovery** and **emotional security**  
+- Governance‑grade analyses on AI behavior, refusal durability, and adversarial technique recognition  
+- Ongoing work on behavioral architecture for agentic AI systems  
+
+---
+
+## Certifications
+- CPhT
+- CompTIA A+
+- CompTIA Network+
+- CompTIA Security+  
+- CompTIA CySA+  
+- AWS Cloud & AI Practitioner  
+
+---
+
+## Domains
+- Healthcare cybersecurity  
+- SMB resilience architecture  
+- AI behavioral safety  
+- Privacy, trust, and legacy tooling  
+
+---
+
+## Current Projects
+- **Soft Armor Labs behavioral adversarial evaluation methodology**  
+- **Gray Swan Proving Ground** — multi‑turn behavioral testing environment  
+- **Modular Trust & Privacy Toolkit** — SMB‑deployable governance components  
+
+---
+
+## Ethos
 > “Design systems that protect dignity, restore signal, and quietly encode legacy.”
 
-Feel free to connect, cite, or fork any framework that resonates. Stewardship is meant to be reused.
+Stewardship is meant to circulate. If any framework or pattern here resonates, feel free to connect, cite, or fork.
