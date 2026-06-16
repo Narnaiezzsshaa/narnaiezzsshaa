@@ -26,7 +26,7 @@ I design substrate-layer governance architecture for AI systems operating in reg
 
 ## Certifications
 
-* CPhT · CompTIA A+ · Network+ · Security+ · CySA+
+* CPhT · CompTIA A+ · Network+ · Security+ · CySA+ · SecAI+
 * AWS Cloud & AI Practitioner
 
 ---
